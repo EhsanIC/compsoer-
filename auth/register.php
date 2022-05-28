@@ -8,5 +8,6 @@
 </head>
 <body>
     <h2>MINE PGAE</h2>
+    <p>lorem</p>
 </body>
 </html>
