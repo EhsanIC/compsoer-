@@ -7,6 +7,9 @@
             "email": "erfan.h.010011@gmail.com"
         }
     ],
+    "license": "MIT"
+    ,
+
     "require": {
         "respect/validation": "^2.2"
     }
